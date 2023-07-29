@@ -1,16 +1,9 @@
-# project_beginner_2
+# 설명
+이미지를 클릭하면 다른 화면으로 넘어가는 기능을 이용하여 만든 실습 앱입니다.
 
-A new Flutter project.
+# 주요 기능
+1. 앱을 실행하면 **캡틴 아메리카 방패 사진**과 그 사진 밑에 **'Click this IMAGE'라는 글**이 있다.
+2. **캡틴 방패 사진**을 클릭하면 상단에 **'My Zone'** 이라는 이름을 가진, 다시 **홈 화면으로 돌아가게 해주는 집 모양의 버튼**을 포함하고 있는 **앱 바**가 있고, 그 밑에는 배경색에 **그라데이션**을 적용한 부분이 있다. 맨 위에서부터 맨 아래까지 같은 간격으로 **'HELLO', 'Good', 'BYE'** 라는 글자가 적혀있다.
 
-## Getting Started
+# 실행 화면
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
